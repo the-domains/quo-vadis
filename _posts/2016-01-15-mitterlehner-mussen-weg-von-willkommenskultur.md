@@ -16,8 +16,8 @@ app_links:
     app_name: iStandard
 isBasedOnUrl: 'http://mobil.derstandard.at/2000029052655/Asyl-OeVP-will-ab-kommender-Woche-Obergrenze'
 title: 'Mitterlehner: "Müssen weg von Willkommenskultur"'
-datePublished: '2016-01-15T10:30:07.270Z'
-dateModified: '2016-01-15T10:21:56.713Z'
+datePublished: '2016-01-15T10:30:08.413Z'
+dateModified: '2016-01-15T10:22:01.399Z'
 sourcePath: _posts/2016-01-15-mitterlehner-mussen-weg-von-willkommenskultur.md
 published: true
 inFeed: true
