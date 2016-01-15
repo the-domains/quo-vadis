@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.055932960131569454
+  lightness: 0.8652139470225679
+  rhythmicContrast: 0.38552695689643135
+  saturation: 0.8479466457913483
+cta: {}
+layout_spectrum: 0.7799163010794514
+name: quo vadis
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.6575743395691481
