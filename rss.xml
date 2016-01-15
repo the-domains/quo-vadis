@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[quo vadis]]></title>
+        <description><![CDATA[quo vadis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jan 2016 10:29:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bayerischer Landrat schickt "Mutti" Merkel einen Bus voll Flüchtlinge]]></title>
+            <description><![CDATA[<article><h1>Bayerischer Landrat schickt "Mutti" Merkel einen Bus voll Flüchtlinge</h1><p>Ein Bus, der von der Bundespolizei und mit Blaulicht eskortiert wird - das ist im Berliner Regierungsviertel nichts Ungewöhnliches. Kaum einer schaut da noch hin. Doch an diesem Donnerstag ist es ganz anders. "Da kommt er, da kommt er", tönt es plötzlich laut vor dem Kanzleramt von Angela Merkel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92a34974c287fd49f66a436863dee5be18a01168.jpg"></article>]]></description>
+            <link>http://mobil.derstandard.at/2000029086287/Wir-fahren-zu-Mutti-direkt-vor-ihr-Haus</link>
+            <guid isPermaLink="false">0f3bc149-5135-47b4-a35d-ebe910afa486</guid>
+            <pubDate>Fri, 15 Jan 2016 10:29:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
