@@ -4,8 +4,15 @@
         <description><![CDATA[quo vadis]]></description>
         <link>https://thegrid.ai/quo-vadis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 21:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 19:20:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quo-vadis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Militärputsch in der Türkei: Geplantes Chaos?]]></title>
+            <description><![CDATA[<article><h1>Militärputsch in der Türkei: Geplantes Chaos?</h1><p>Am späten Freitagabend verkündete eine Gruppe des türkischen Militärs im staatlichen Fernsehen, dass die Armee die Macht im Staat übernommen habe. Kurz darauf widersprach der türkische Präsident Recep Tayyip Erdoğan in einer Videobotschaft der Machtübernahme vehement. Erdoğan forderte die Bevölkerung auf, sich an öffentlichen Plätzen gegen die Putschisten zu stellen.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7636d4d1ed303264e7091274d13bc5e2/noop?input=http%3A%2F%2Fimg.zeit.de%2Fpolitik%2Fausland%2F2016-07%2Ftuerkei-taksim%2Fwide__1300x731"></article>]]></description>
+            <link>http://www.zeit.de/politik/ausland/2016-07/tuerkei-putsch-erdogan-guelen</link>
+            <guid isPermaLink="false">1b0caacd-c076-41ed-b109-6877fd7c6400</guid>
+            <pubDate>Sat, 16 Jul 2016 19:20:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ministerpräsident: Putschversuch in Türkei - news.ORF.at]]></title>
             <description><![CDATA[<article><h1>Ministerpräsident: Putschversuch in Türkei - news.ORF.at</h1><p>Nach den Worten von Ministerpräsident Binali Yildirim ist in der Türkei ein Putschversuch im Gange. Yildirim sagte dem Sender NTV, die Sicherheitskräfte täten alles Notwendige, um die Situation zu entschärfen. In der tü...</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://m.facebook.com/story.php?story_fbid=10206749755115344&amp;id=1018747263</link>
             <guid isPermaLink="false">7bf26012-5d2f-4c10-81cd-16b500ba13aa</guid>
             <pubDate>Fri, 15 Jan 2016 10:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bayerischer Landrat schickt "Mutti" Merkel einen Bus voll Flüchtlinge]]></title>
-            <description><![CDATA[<article><h1>Bayerischer Landrat schickt "Mutti" Merkel einen Bus voll Flüchtlinge</h1><p>Ein Bus, der von der Bundespolizei und mit Blaulicht eskortiert wird - das ist im Berliner Regierungsviertel nichts Ungewöhnliches. Kaum einer schaut da noch hin. Doch an diesem Donnerstag ist es ganz anders. "Da kommt er, da kommt er", tönt es plötzlich laut vor dem Kanzleramt von Angela Merkel.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c61460a70c492c175d0ba89f44cf14d9e7057978.jpg"></article>]]></description>
-            <link>http://mobil.derstandard.at/2000029086287/Wir-fahren-zu-Mutti-direkt-vor-ihr-Haus</link>
-            <guid isPermaLink="false">0f3bc149-5135-47b4-a35d-ebe910afa486</guid>
-            <pubDate>Fri, 15 Jan 2016 10:29:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
