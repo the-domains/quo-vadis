@@ -4,8 +4,15 @@
         <description><![CDATA[quo vadis]]></description>
         <link>https://thegrid.ai/quo-vadis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 12:46:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 12:47:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quo-vadis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FAZ.NET]]></title>
+            <description><![CDATA[<article><h1>FAZ.NET</h1></article>]]></description>
+            <link>http://m.faz.net/aktuell/politik/wahl-in-amerika/donald-und-das-weinende-baby-14369245.html?GEPC=s3</link>
+            <guid isPermaLink="false">56df58ff-a612-4b5c-8e57-ff32dc91ead2</guid>
+            <pubDate>Wed, 03 Aug 2016 12:46:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wie die Kronen Zeitung beim FPÖ-Wahlkampf mithilft]]></title>
             <description><![CDATA[<article><h1>Wie die Kronen Zeitung beim FPÖ-Wahlkampf mithilft</h1><p>Wie die Kronen Zeitung beim FPÖ-Wahlkampf mithilft Seit Jahren versucht die Kronen Zeitung mit diversen Kampagnen Politik zu betreiben. So verhalf sie zum Beispiel Hans-Peter Martin zu einem fulminanten Sieg bei den Europawahlen 2009. Auch das Erstarken der FPÖ wird von manchen der Berichterstattung in der Kronen Zeitung zugeschrieben.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d34e60fb1e5497ee5206755c299a86bf/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*um2kRDOkUCmfu2tj3jMrcg.jpeg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://steiermark.orf.at/news/stories/2754031/</link>
             <guid isPermaLink="false">505e221f-5882-4487-bbd0-086bbea5f557</guid>
             <pubDate>Tue, 26 Jan 2016 02:52:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mitterlehner: "Müssen weg von Willkommenskultur"]]></title>
-            <description><![CDATA[<article><h1>Mitterlehner: "Müssen weg von Willkommenskultur"</h1><p>Bad Leonfelden - Der Blick über die Weiten des verschneiten oberen Mühlviertels scheint grenzenlos. Und doch ist ebendort für die ÖVP dieser Tage die Grenze erreicht. Parteichef Reinhold Mitterlehner hat für zwei Tage zur Klubklausur in die Heimat geladen. Doch auch wenn mit dem kleinen Kurort Bad Leonfelden die Tagungsörtlichkeit durchaus beschaulich ist, die schwarzen Themen sind eher brisant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff2e87279c52ee09bcae1eeb97d5798543044109.jpg"></article>]]></description>
-            <link>http://mobil.derstandard.at/2000029052655/Asyl-OeVP-will-ab-kommender-Woche-Obergrenze</link>
-            <guid isPermaLink="false">20caee77-3369-4174-ab50-022cbbc93c3b</guid>
-            <pubDate>Fri, 15 Jan 2016 10:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
