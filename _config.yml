@@ -1,18 +1,20 @@
 analytics: {}
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.055932960131569454
-  lightness: 0.8652139470225679
-  rhythmicContrast: 0.38552695689643135
-  saturation: 0.8479466457913483
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.43222310533747077
+  lightness: 0.001174920005723834
+  rhythmicContrast: 0.886040027718991
+  saturation: 0.027736493851989508
 cta: {}
-layout_spectrum: 0.7799163010794514
+layout_spectrum: 0.2762163325678557
 name: quo vadis
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.6575743395691481
+typography_spectrum: 0.24096274375915527
+coverPrefs:
+  filter: false
